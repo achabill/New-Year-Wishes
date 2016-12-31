@@ -2,6 +2,7 @@
 
 Please ensure your PR follows the guidelines provided.
 
+- Append your entry to the bottom of the list. First come, first serve.
 - Any language is allowed.
 - Use your github username in the username section with a link to your profile. e.g [user](https://github.com/user)
 - Your full name should not be more than 25 characters.
