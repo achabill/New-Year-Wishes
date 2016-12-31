@@ -5,7 +5,6 @@ The last 24 hours of every year `yyyy` and the 1st 24 hours of the new year is a
 You've got 48 hours. We will start accepting pull request of `31st December yyyy @  00:00:00` and end on the `1st January, yyyy + 1 @ 23:59:59`.
 
 Happy new year!
-___
 
 ## Archive
 
