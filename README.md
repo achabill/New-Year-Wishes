@@ -16,3 +16,5 @@ Happy new year!
 | Username | Full Name | Country  | New Year Wish or advice
 | --- | --- | --- | --- |
 |[achabill](https://github.com/achabill)|Bill N. Acha|Cameroon|Forget 2016, Plan for 2017
+|     |     |     |     |
+|[glennfaison](https://github.com/glennfaison)|Glenn Faison|Cameroon|Wisdom to make the best plan.
