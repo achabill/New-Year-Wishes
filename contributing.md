@@ -2,14 +2,14 @@
 
 Please ensure your PR follows the guidelines provided.
 
-- Append your entry to the bottom of the list. First come, first serve.
-- Any language is allowed.
+- Append your entry to the bottom of the list. **First come, first serve**.
+- Any natural language is allowed.
 - Use your github username in the username section with a link to your profile. e.g [user](https://github.com/user)
-- Your full name should not be more than 25 characters.
+- In the mentions section, you can link the mentioned person to an online profile if you like. @Jane Doe and [@janedoe][github] and @janedoe[facebook] and [@janedoe][twitter],etc. are all allowed.
+- Your full name should not be more than 15 characters.
 - Your new year wish should not be more than 56 characters.
-- PR to automate checking of character limits are welcomed. 
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should just be your GitHub username.
+- Commit message for new year wish should be of the form `username\17\18`. 17\18 stands for the year 2017\2018.
 
 **Happy New Year!!!**
