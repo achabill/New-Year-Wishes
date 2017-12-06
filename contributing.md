@@ -10,6 +10,6 @@ Please ensure your PR follows the guidelines provided.
 - Your new year wish should not be more than 56 characters.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- Commit message for new year wish should be of the form `username\17\18`. 17\18 stands for the year 2017\2018.
+- To make an upvote, **add 1 to the previous value**.
 
 **Happy New Year!!!**
